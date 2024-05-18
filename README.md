@@ -1,2 +1,2 @@
 # demo-git-config
-this is demo repositey
+this is demo repositey.
